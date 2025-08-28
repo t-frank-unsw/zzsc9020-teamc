@@ -9,14 +9,14 @@ Complete the information below regarding your group.
 ## Group and project information
 
 ### Group members and zIDs
-- Liam Dobson (zID1) - Group leader
+- Liam Dobson (z5062957) - Group leader
 - Thomas Frank (z5385080) - role
-- Elizabeth Muirhead (zID3) - role
-- Adil Ali (zID4) - role
+- Elizabeth Muirhead (z5475065) - role
+- Adil Ali (z5075178) - role
 
 ### Brief project description
 
-Describe your project in one paragraph.
+*Extreme Temperature and Forecasting Accuracy*: Does temperature not only drive electricity demand but also influence forecast accuracy, with errors increasing on extremely hot or cold days?
 
 ## Repository structure
 
